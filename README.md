@@ -1,6 +1,6 @@
 ## About this API
 
-API that queries another API for info. See assignment for more information.
+API that queries another API for info.
 
 ## Installation
 
@@ -19,7 +19,7 @@ LOG_CHANNEL=stack
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=carthookapi
+DB_DATABASE=databasename
 DB_USERNAME=user
 DB_PASSWORD=password
 
@@ -39,6 +39,6 @@ Or execute the command `php artisan import:jsonapi`
 
 ## Testing
 
-- Download postman collection https://www.getpostman.com/collections/337c6bbac6271e8903b6
+- Download postman collection (link on document)
 
 - Click on "runner" and Run API
